@@ -45,3 +45,4 @@ boton = Button(frame, text="Guardar valores", command=mostrar_valores)
 boton.grid(row=len(labels), column=0, columnspan=2, pady=10)
 
 raiz.mainloop()
+
